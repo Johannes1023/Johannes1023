@@ -25,4 +25,4 @@ Mostly small experiments, prototypes and documentation about my professional exp
 - Solution development
 - and more
 
-This is not a software engineering portfolio. It is a place to stay hands-on, learn how new tools work and share useful experiments along the way.
+This is not a software engineering portfolio. It is a place to stay hands-on, learn how new tools work and share useful experiments.
